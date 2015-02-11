@@ -114,7 +114,7 @@ function postfixToInfix (exp) {
 }
 
 
-print(postfixToInfix ('(5+8)*3'));
+print(postfixToInfix('(5+8)*3'));
 
 ///////////////////////////////////////////////////////////
 /*
